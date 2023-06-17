@@ -1,0 +1,1 @@
+# Simple-CRM-system-based-on-Django-and-MySQL
